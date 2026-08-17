@@ -1,12 +1,12 @@
 :root {
-    --primary-color: #121212;
-    --accent-color: #F5F5F5;
-    --background: #121212;
-    --text-color: #F5F5F5;
+    --primary-color: #2c3e50;
+    --accent-color: #3498db;
+    --background: #f8f9fa;
+    --text-color: #333;
 }
 
 body {
-    font-family: 'comic sans ms', sans-serif;
+    font-family: 'Comic Sans MS', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -50,7 +50,7 @@ h3 {
 }
 
 .card {
-    background: #121212;
+    background: #F5F5F5;
     padding: 20px;
     margin-bottom: 15px;
     border-radius: 8px;
