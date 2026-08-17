@@ -74,3 +74,20 @@ footer {
     color: #F5F5F5;
     margin-top: 40px;
 }
+
+.download-btn {
+    display: inline-block;
+    background-color: var(--accent-color);
+    color: #F5F5F5;
+    padding: 10px 20px;
+    margin-top: 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.download-btn:hover {
+    background-color: #FF2400;
+    transform: translateY(-2px);
+}
